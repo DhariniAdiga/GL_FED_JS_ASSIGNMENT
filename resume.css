@@ -1,0 +1,21 @@
+.resume-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#applicant-details {
+    margin-bottom: 20px;
+}
+
+.navigation {
+    text-align: center;
+}
+
+#job-search {
+    margin-right: 10px;
+}
+
+.error-message {
+    color: red;
+}
